@@ -1,5 +1,5 @@
 /* bump this string on every deploy so returning users get the new version */
-const CACHE_NAME = 'agent-day-v9.9.1';
+const CACHE_NAME = 'agent-day-v9.9.5';
 const ASSETS = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
